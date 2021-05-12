@@ -24,7 +24,8 @@
   "homepage": "https://github.com/rtc-io/rtc-validator",
   "devDependencies": {
     "tape": "^2.14.0",
-    "testling": "^1.7.0"
+    "testling": "^1.7.0",
+    "travis-multirunner": "^4.6.0"
   },
   "testling": {
     "files": "test/all.js"
